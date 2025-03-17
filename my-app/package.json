@@ -9,6 +9,7 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
+    "my-app": "file:",
     "react-dom": "^19.0.0",
     "react-scripts": "^5.0.1"
   },
